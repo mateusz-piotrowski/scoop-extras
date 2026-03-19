@@ -1,12 +1,12 @@
 {
-    "version": "2.26.1",
+    "version": "2.27.1",
     "description": "Git repository summary on terminal",
     "homepage": "https://github.com/o2sh/onefetch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/o2sh/onefetch/releases/download/2.26.1/onefetch-win.tar.gz",
-            "hash": "b265b130d202ae5f3ff997742778eef948177ec54a5629dfc2d83eb005522856"
+            "url": "https://github.com/o2sh/onefetch/releases/download/2.27.1/onefetch-win.tar.gz",
+            "hash": "5f63d2e4b0e8e591706a1e7bc8af8fb5f129fb0f55b98abce05555f7669cba5d"
         }
     },
     "bin": "onefetch.exe",
